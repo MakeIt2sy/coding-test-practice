@@ -1,3 +1,5 @@
+```java
+
 import java.util.HashMap;
 
 class Solution {
@@ -37,3 +39,5 @@ class Solution {
         return answer;
     }
 }
+
+```
