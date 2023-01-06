@@ -9,13 +9,13 @@ public class Calculator {
 	}
 
 	public Calculator add (int num) {
-		value += num;
+		this.value += num;
 		
 		return this;	
 	}
 
 	public Calculator substract (int num) {
-		value -= num;
+		this.value -= num;
 		
 		return this;	
 	}
